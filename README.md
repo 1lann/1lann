@@ -1,6 +1,6 @@
 # Hello
 
-I'm a Site Reliability Engineer at [Cockroach Labs](https://www.cockroachlabs.com/) where we're building what I think is the [best transactional database ever created](https://github.com/cockroachdb/cockroach). This is my personal GitHub so opinions are my own.
+I'm a Linux Engineer for work, but I enjoy doing all sorts of software engineering like web development, distributed systems and machine learning.
 
 You might know me from:
 <ul>
